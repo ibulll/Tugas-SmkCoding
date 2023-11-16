@@ -43,5 +43,23 @@ export const products = [
       image: "/images/products/baju-5.png",
       isCart: false,
       description: "White Casual Short Sleeve Cotton Plain Top Embellished Non-Stretch Summer Men Tops",
+    },
+    {
+      id: 6,
+      name: "Batch Freelancer Men's Button Down Shirt in Aluminum Black",
+      category: "Baju",
+      price: 10,
+      image: "/images/products/baju-2.png",
+      isCart: false,
+      description: "White Casual Short Sleeve Cotton Plain Top Embellished Non-Stretch Summer Men Tops",
+    },
+    {
+      id: 7,
+      name: "Batch Freelancer Men's Button Down Shirt in Aluminum Blue",
+      category: "Baju",
+      price: 10,
+      image: "/images/products/baju-6.png",
+      isCart: false,
+      description: "White Casual Short Sleeve Cotton Plain Top Embellished Non-Stretch Summer Men Tops",
     }
   ];
